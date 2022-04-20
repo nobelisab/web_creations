@@ -9,4 +9,4 @@ They include:
 
 Each of the types of websites reflect all of the above.  However, they have different focuses.
 
-I am currently furthering my web development abilities here.
+I am certified in web development and taking part in an awesome course.
