@@ -1,4 +1,4 @@
-# Healthy Living Investments
+# Healthy Living Investments - Website Design
 
 This is a web design services guide to different types of websites which are offered through Healthy Living Investments.  
 
