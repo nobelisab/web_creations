@@ -9,4 +9,4 @@ They include:
 
 Each of the types of websites reflect all of the above.  However, they have different focuses.
 
-This is part of an awesome course I am taking through Coursera.
+I am currently furthering my web development abilities here.
