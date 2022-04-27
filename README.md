@@ -9,4 +9,4 @@ They include:
 
 Each of the types of websites reflect all of the above.  However, they have different focuses.
 
-I am certified in web development and taking part in an awesome course.
+I am certified in web development.  I am taking part in an awesome course by Yaakov Chaiken of JHU Web Development with HTML, CSS, and JS.
